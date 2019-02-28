@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>obj\Debug\__library_projects__\FormsViewGroup\library_project_imports\formsviewgroup.jar;C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\FormsViewGroup\library_project_imports\formsviewgroup.jar;C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Azure.NotificationHubs.Android\library_project_imports\bin\classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\AndHUD\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\FastAndroidCamera\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\GCM.Client\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Plugin.Settings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\RestSharp\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Azure.NotificationHubs.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\ZXing.Net.Mobile.Forms.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\ZXingNetMobile\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\AndHUD\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\FastAndroidCamera\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\GCM.Client\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Settings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\RestSharp\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Azure.NotificationHubs.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ZXing.Net.Mobile.Forms.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ZXingNetMobile\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\AndHUD.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\FastAndroidCamera.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\GCM.Client.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Plugin.Settings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\RestSharp.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Azure.NotificationHubs.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\ZXing.Net.Mobile.Forms.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\FotoCel\FotoCel\obj\Debug\__library_projects__\ZXingNetMobile.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
